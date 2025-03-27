@@ -1,0 +1,207 @@
+[
+      {
+        "name": "Double Espresso",
+        "description": "A bold double shot of our finest espresso beans, delivering intense flavor with a perfect crema.",
+        "price": 2.5,
+        "image": "double-espresso.jpg"
+      },
+      {
+        "name": "Americano",
+        "description": "Espresso shots topped with hot water, creating a light layer of crema for a rich yet smooth taste.",
+        "price": 2.9,
+        "image": "americano.jpg"
+      },
+      {
+        "name": "Flat White",
+        "description": "Velvety microfoam over a double ristretto shot, creating the perfect coffee-to-milk balance.",
+        "price": 3.2,
+        "image": "flat-white.jpg"
+      },
+      {
+        "name": "Latte",
+        "description": "Espresso with steamed milk and a light layer of foam, offering a creamy coffee experience.",
+        "price": 3.2,
+        "image": "latte.jpg"
+      },
+      {
+        "name": "Cappuccino",
+        "description": "Equal parts espresso, steamed milk and silky foam, dusted with cocoa powder.",
+        "price": 3.2,
+        "image": "cappuccino.jpg"
+      },
+      {
+        "name": "Macchiato",
+        "description": "Espresso 'stained' with a dollop of foamed milk, perfect for those who enjoy strong coffee with a touch of creaminess.",
+        "price": 2.9,
+        "image": "macchiato.jpg"
+      },
+      {
+        "name": "Mocha",
+        "description": "Rich espresso combined with chocolate syrup and steamed milk, topped with whipped cream.",
+        "price": 3.6,
+        "image": "mocha.jpg"
+      },
+      {
+        "name": "Freddo Espresso",
+        "description": "Chilled double espresso shaken to create a rich, creamy foam, served over ice cubes in a tall glass.",
+        "price": 4.0,
+        "image": "freddo-espresso.jpg"
+      },
+      {
+        "name": "Freddo Cappuccino",
+        "description": "Iced espresso topped with cold frothed milk, creating distinct layers of coffee and creamy foam.",
+        "price": 4.5,
+        "image": "freddo-cappuccino.jpg"
+      },
+      {
+        "name": "Iced Americano",
+        "description": "Chilled espresso shots poured over ice and topped with cold water for a refreshing strong coffee.",
+        "price": 3.4,
+        "image": "iced-americano.jpg"
+      },
+      {
+        "name": "Iced Latte",
+        "description": "Espresso poured over ice and topped with cold milk, creating a refreshing creamy coffee drink.",
+        "price": 3.6,
+        "image": "iced-latte.jpg"
+      },
+      {
+        "name": "Mountain Tea",
+        "description": "Traditional Greek herbal infusion from wild sideritis plants, known for its antioxidant properties and earthy flavor.",
+        "price": 3.0,
+        "image": "mountain-tea.jpg"
+      },
+      {
+        "name": "English Breakfast",
+        "description": "Robust black tea blend perfect for morning enjoyment, served with lemon or milk.",
+        "price": 2.6,
+        "image": "english-breakfast.jpg"
+      },
+      {
+        "name": "Green Tea",
+        "description": "Delicate Japanese sencha leaves brewed at perfect temperature to preserve antioxidants.",
+        "price": 2.8,
+        "image": "green-tea.jpg"
+      },
+      {
+        "name": "Camomile Tea",
+        "description": "Soothing herbal infusion with apple-like flavor, perfect for relaxation.",
+        "price": 2.8,
+        "image": "camomile-tea.jpg"
+      },
+      {
+        "name": "Earl Grey",
+        "description": "Classic black tea scented with bergamot oil, offering citrusy floral notes.",
+        "price": 2.8,
+        "image": "earl-grey.jpg"
+      },
+      {
+        "name": "Peppermint Tea",
+        "description": "Invigorating pure peppermint leaves infusion, naturally caffeine-free.",
+        "price": 2.8,
+        "image": "peppermint-tea.jpg"
+      },
+      {
+        "name": "Fresh Mint Tea",
+        "description": "Hand-picked mint leaves steeped in hot water, refreshing and digestive.",
+        "price": 2.8,
+        "image": "fresh-mint-tea.jpg"
+      },
+      {
+        "name": "Hot Chocolate",
+        "description": "Rich melted chocolate mixed with steamed milk, topped with whipped cream and chocolate shavings.",
+        "price": 3.4,
+        "image": "hot-chocolate.jpg"
+      },
+      {
+        "name": "Matcha Latte",
+        "description": "Vibrant Japanese matcha powder whisked with steamed milk, offering earthy sweetness.",
+        "price": 3.4,
+        "image": "matcha-latte.jpg"
+      },
+      {
+        "name": "Fresh Squeezed Orange Juice",
+        "description": "Cold-pressed from organic oranges, packed with vitamin C and served unpasteurized.",
+        "price": 5.0,
+        "image": "orange-juice.jpg"
+      },
+      {
+        "name": "Apple, Carrot & Ginger Juice",
+        "description": "Revitalizing combination of sweet apples, earthy carrots and spicy fresh ginger root.",
+        "price": 4.5,
+        "image": "apple-carrot-ginger.jpg"
+      },
+      {
+        "name": "Banana, Orange & Apple Juice",
+        "description": "Creamy banana blended with citrusy orange and crisp apple for balanced sweetness.",
+        "price": 4.5,
+        "image": "banana-orange-apple.jpg"
+      },
+      {
+        "name": "Sunset Splash",
+        "description": "Tropical blend of banana, strawberry, mango and cherry with yogurt base, vibrant in color and flavor.",
+        "price": 4.7,
+        "image": "sunset-splash.jpg"
+      },
+      {
+        "name": "Golden Globe",
+        "description": "Sunshine in a glass with pineapple, mango, melon and kiwi, rich in vitamin C.",
+        "price": 4.7,
+        "image": "golden-globe.jpg"
+      },
+      {
+        "name": "Acai Kick",
+        "description": "Antioxidant powerhouse featuring acai berry with mango, banana and blueberry.",
+        "price": 4.7,
+        "image": "acai-kick.jpg"
+      },
+      {
+        "name": "Dr Detox",
+        "description": "Green goodness with broccoli, spinach, pineapple and mango for an energizing cleanse.",
+        "price": 4.7,
+        "image": "dr-detox.jpg"
+      },
+      {
+        "name": "Coca Cola/Zero",
+        "description": "Classic cola served ice cold in a glass bottle.",
+        "price": 1.8,
+        "image": "coca-cola.jpg"
+      },
+      {
+        "name": "Fanta",
+        "description": "Sparkling orange soda, refreshingly sweet with citrus notes.",
+        "price": 1.8,
+        "image": "fanta.jpg"
+      },
+      {
+        "name": "Still Water",
+        "description": "Premium local mineral water, naturally filtered through mountain springs.",
+        "price": 1.5,
+        "image": "still-water.jpg"
+      },
+      {
+        "name": "Sparkling Water",
+        "description": "Naturally carbonated mineral water with crisp effervescence.",
+        "price": 1.85,
+        "image": "sparkling-water.jpg"
+      },
+      {
+        "name": "Ayran",
+        "description": "Traditional yogurt drink with salt, perfectly refreshing on hot days.",
+        "price": 1.9,
+        "image": "ayran.jpg"
+      }
+    ,
+      {
+        "name": "Plant Milk Options",
+        "description": "Oat, soya, coconut or almond milk alternative for any drink.",
+        "price": 0.3,
+        "image": "plant-milk.jpg"
+      },
+      {
+        "name": "Flavor Shots",
+        "description": "Vanilla or caramel syrup to sweeten and flavor your beverage.",
+        "price": 0.4,
+        "image": "flavor-shots.jpg"
+      }
+    ]

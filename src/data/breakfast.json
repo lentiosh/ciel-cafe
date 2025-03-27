@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "Eggs Benedict",
+        "description": "2 slices of English muffin, topped with poached eggs, bacon and hollandaise sauce",
+        "price": 10.5,
+        "image": "eggs-benedict.jpg"
+    },
+    {
+        "name": "Omelette with Cheese",
+        "description": "3 free range eggs with feta and cheddar cheese",
+        "price": 7.9,
+        "image": "omelette.jpg"
+    },
+    {
+        "name": "Greek Yogurt Bowl",
+        "description": "Authentic Greek yogurt topped with local honey, walnuts, and fresh berries",
+        "price": 8.5,
+        "image": "yogurt-bowl.jpg"
+    },
+    {
+        "name": "Spanakopita Breakfast",
+        "description": "Traditional Greek spinach pie served with a side of yogurt",
+        "price": 9.5,
+        "image": "spanakopita.jpg"
+    },
+    {
+        "name": "Mediterranean Avocado Toast",
+        "description": "Sourdough topped with avocado, cherry tomatoes, feta, and olive oil",
+        "price": 11.0,
+        "image": "avocado-toast.jpg"
+    },
+    {
+        "name": "Greek Breakfast Platter",
+        "description": "Eggs any style with grilled halloumi, olives, tomatoes, cucumber, and pita bread",
+        "price": 13.5,
+        "image": "greek-breakfast.jpg"
+    }
+]

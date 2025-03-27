@@ -1,0 +1,39 @@
+
+[
+    {
+        "name": "Moussaka",
+        "description": "Traditional Greek casserole with layers of eggplant, potatoes, and seasoned ground beef topped with béchamel sauce",
+        "price": 14.5,
+        "image": "moussaka.jpg"
+    },
+    {
+        "name": "Souvlaki Platter",
+        "description": "Grilled skewers of marinated chicken or pork served with tzatziki, pita bread, and a Greek salad",
+        "price": 16.0,
+        "image": "souvlaki.jpg"
+    },
+    {
+        "name": "Gyro Wrap",
+        "description": "Slow-roasted seasoned meat wrapped in warm pita with tomatoes, onions, and tzatziki sauce",
+        "price": 12.5,
+        "image": "gyro.jpg"
+    },
+    {
+        "name": "Greek Salad",
+        "description": "Fresh cucumber, tomatoes, red onion, olives, and feta cheese dressed with olive oil and herbs",
+        "price": 11.0,
+        "image": "greek-salad.jpg"
+    },
+    {
+        "name": "Pastitsio",
+        "description": "Baked pasta with ground beef and rich béchamel sauce, flavored with cinnamon and nutmeg",
+        "price": 13.5,
+        "image": "pastitsio.jpg"
+    },
+    {
+        "name": "Stuffed Grape Leaves (Dolmades)",
+        "description": "Grape leaves filled with seasoned rice and herbs, served with lemon and tzatziki",
+        "price": 10.0,
+        "image": "dolmades.jpg"
+    }
+]

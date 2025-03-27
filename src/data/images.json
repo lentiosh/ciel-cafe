@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": 1,
+    "title": "Greek Coffee",
+    "description": "Traditional Greek coffee prepared in a briki",
+    "category": "coffee",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Café Interior",
+    "description": "The cozy interior of Athena's Café",
+    "category": "cafe",
+    "imageUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2047&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Greek Salad",
+    "description": "Fresh traditional Greek salad with feta cheese",
+    "category": "food",
+    "imageUrl": "https://images.unsplash.com/photo-1551248429-40975aa4de74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1890&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Freddo Espresso",
+    "description": "Iced espresso shaken to create a rich foam",
+    "category": "coffee",
+    "imageUrl": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Outdoor Seating",
+    "description": "Our lovely outdoor dining area",
+    "category": "cafe",
+    "imageUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Moussaka",
+    "description": "Traditional Greek moussaka with layers of eggplant",
+    "category": "food",
+    "imageUrl": "https://images.unsplash.com/photo-1515516969-d4008cc6241a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2068&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Latte Art",
+    "description": "Beautiful latte art created by our skilled baristas",
+    "category": "coffee",
+    "imageUrl": "https://images.unsplash.com/photo-1541167760496-1628856ab772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1894&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Breakfast Spread",
+    "description": "A delicious breakfast spread with various options",
+    "category": "food",
+    "imageUrl": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Counter Area",
+    "description": "Our coffee and dessert counter",
+    "category": "cafe",
+    "imageUrl": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Spanakopita",
+    "description": "Traditional Greek spinach pie with flaky phyllo dough",
+    "category": "food",
+    "imageUrl": "https://images.unsplash.com/photo-1605709303005-0fddfcecb90f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Coffee Beans",
+    "description": "Our specially selected coffee beans",
+    "category": "coffee",
+    "imageUrl": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Café Atmosphere",
+    "description": "The warm and inviting atmosphere of our café",
+    "category": "cafe",
+    "imageUrl": "https://images.unsplash.com/photo-1559305616-3f99cd43e353?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80"
+  }
+]
